@@ -1,0 +1,38 @@
+.members {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+
+.members img {
+    width: 150px;
+    height: auto;
+    margin-right: 20px;
+    border-radius: 50%;
+}
+
+.members .info {
+    display: flex;
+    flex-direction: column;
+}
+
+body{
+    background-color: wheat;
+}
+.members.h1{
+    /* margin: 0%; */
+    font-size: 20px;
+}
+.members.h2{
+    /* margin: 0%; */
+    font-size: 20px;
+}
+*{
+    margin: 0%;
+    box-sizing: border-box;
+    padding: 0%;
+}
+.header{
+    text-align: center;
+    
+}
